@@ -1,6 +1,5 @@
 
 # 💫 Mohamed Habib Allah Bibani
-
 Hey there! 👋 I'm **Mohamed Habib Allah Bibani**, a 22-year-old Computer Science Engineering student at **ESPRIT**, currently living in Tunisia.
 
 **About Me:**
@@ -10,6 +9,9 @@ Hey there! 👋 I'm **Mohamed Habib Allah Bibani**, a 22-year-old Computer Scien
 I'm passionate about technology and constantly seeking opportunities to learn and grow in the field. I believe in the power of innovation and collaboration, and I'm always excited to connect with like-minded individuals to discuss tech trends, share knowledge, and collaborate on exciting projects.
 
 Let's innovate and create together! 🚀
+
+## 🧑‍💻 Profile Views:
+![](https://komarev.com/ghpvc/?username=GitHackerz)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.habib.allah.bibani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-habib-allah-bibani-08b966230) 
