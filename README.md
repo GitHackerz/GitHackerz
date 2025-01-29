@@ -63,7 +63,6 @@
 
 ### ⏳ WakaTime Stats
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@GitHackerz&theme=radical&layout=compact" alt="WakaTime Stats" />
 </p>
 
