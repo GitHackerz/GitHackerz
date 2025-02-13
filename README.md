@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;Tech+Lead+%7C+Project+Manager;Passionate+about+AI+%26+DevSecOps" alt="Typing SVG" />
 </p>
 
----
-
 ### 🚀 About Me
 - 🔭 I’m currently working as a **Software Engineer at Elepzia**
 - 💡 Passionate about **AI, DevSecOps**
@@ -13,7 +11,8 @@
 - 💬 Ask me about **Full-Stack Development, AI, and DevOps Tools**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/mohamed-habib-allah-bibani)**
 
----
+## 🧑‍💻 Profile Views:
+![](https://komarev.com/ghpvc/?username=GitHackerz)
 
 ### 🛠 Tech Stack
 #### 💻 Programming Languages
@@ -51,22 +50,17 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GitHackerz&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=GitHackerz&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
 ### ⏳ WakaTime Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@GitHackerz&theme=radical&layout=compact" alt="WakaTime Stats" />
 </p>
-
----
 
 ### 🌎 Connect with Me
 <p align="center">
